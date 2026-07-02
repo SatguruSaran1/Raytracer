@@ -63,7 +63,6 @@ You can run the program using default fast settings or customize the resolution 
   ```bash
   ./raytracer --quick
   ```
-*(This forces a $320 \times 180$ resolution with 10 samples per pixel, which completes in just a few seconds).*
 
 ## Viewing the Output
 
